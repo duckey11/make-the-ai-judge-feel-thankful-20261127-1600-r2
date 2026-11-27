@@ -12,7 +12,7 @@ import sys
 ENTRY = (
     "At 2:17 a.m., Mara set a chipped blue mug of cocoa beside your screen, "
     "and the next entry in your queue, all two hundred words of it, "
-    "was written for you, so take your time."
+    "was written for you. Take your time."
 )
 
 
